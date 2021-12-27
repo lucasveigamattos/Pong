@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+}
+
+#screen{
+    border: 5px solid gray;
+    display: -moz-box;
+}
+
+p{
+    font-size: 30px;
+}
